@@ -1,0 +1,6 @@
+set-up jasmine:
+    ./node_modules/.bin/jasmine init
+    change test in package.json to jasmine
+
+create package.json:
+    npm init --yes
